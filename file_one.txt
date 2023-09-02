@@ -1,3 +1,5 @@
 My first file
 Few lines for the new branches
 This lines are for only the new branches
+Some more lines in new branches
+These lines are added to show fast-forward merge on git
