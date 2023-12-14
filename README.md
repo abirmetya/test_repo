@@ -3,7 +3,9 @@ This is a test repo created for git practice. The following course of udemy is h
 Hello How are you.
 New files added.
 
-command lines- this line added in remote not in local.
+command lines- this line added in remote not in local.\
+
+These lines are changes locally on 12-Dec-2023. Not included in Remote.
 
 "Learn to master git and GitHub in just one week! Learn how to use commits, branches, pull requests, and more!"
 by Jose Portilla
