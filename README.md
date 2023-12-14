@@ -1,6 +1,9 @@
 # test_repo
-This is a test repo created for git practice. The following course on Udemy is highly useful for learning git.
-Hey how are you?
+This is a test repo created for git practice. The following course of udemy is highly usefull to learn git.
+Hello How are you.
+New files added.
+
+command lines- this line added in remote not in local.
 
 "Learn to master git and GitHub in just one week! Learn how to use commits, branches, pull requests, and more!"
 by Jose Portilla
