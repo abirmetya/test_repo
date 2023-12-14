@@ -1,5 +1,6 @@
 # test_repo
-This is a test repo created for git practice. The following course of udemy is highly usefull to learn git
+This is a test repo created for git practice. The following course of udemy is highly usefull to learn git.
+Hello How are you.
 New files added.
 
 "Learn to master git and GitHub in just one week! Learn how to use commits, branches, pull requests, and more!"
